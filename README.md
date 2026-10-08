@@ -14,9 +14,6 @@ I like understanding how things work, solving problems, and building small syste
 - Data analysis and classical Machine Learning
 - Cybersecurity
 
-Most of my repositories are not intended to be polished products. They are practical starting points for subjects I have explored more deeply on the theoretical side.
-
-I use them to experiment, document what I learn, test architectures and gradually turn concepts into working implementations.
 
 ## Current focus
 
